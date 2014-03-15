@@ -1,15 +1,26 @@
 Student-Presentation-Venues
 ===========================
 
-A list of potential venues for students to present their work.
+**A list of potential venues for students to present their work.**
 
-:x: not explored
-:checkmark: explored
+===
+
+Key:
+> :question: not explored
+>
+> `Other` explored
+
+===
+
+<!-- template -->
+
+<!-- | name of venue/link | date/time | explored | description | -->
 
 
 | name of venue/link | date/time | explored | description |
 | :---: | :---: | :---: | :---: | :---: |
 | [Adafruit-Show-And-Tell][1] | Wednesdays 4:30 PM PST | :star: | projects probably related to the adafruit inventory |
+
 
 
 
