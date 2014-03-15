@@ -21,9 +21,7 @@ Key:
 | name of venue/link | date/time | explored | description |
 | :---: | :---: | :---: | :---: | :---: |
 | [Adafruit-Show-And-Tell][1] | Wednesdays 4:30 PM PST | :star: | projects probably related to the adafruit inventory |
-
 | [sudo room][2] | Wednesdays 7:00 PM PST | :star: | can come to meeting and show off projects, request help/materials |
-
 | [noisebridge][2] | third thursdays  7:00 PM PST | :star: | five minutes to talka bout why their project is awesome|
 
 
